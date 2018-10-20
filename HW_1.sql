@@ -18,7 +18,7 @@ INSERT INTO `weekdays` VALUES
 (7, 'Saturday');
 
 SELECT * FROM `weekdays`;
-/*----------------------------------------------*/
+
 CREATE TABLE `cars`(
 	`id` INT(4) UNSIGNED,
 	`carCode` CHAR(3) NOT NULL,
